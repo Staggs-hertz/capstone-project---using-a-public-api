@@ -100,3 +100,12 @@
   font-style: italic;
   padding-left: 20px;
 }
+
+@media screen and (max-width: 1000px) {
+  .right-content {
+    padding: 0px 40px 20px 130px;
+  }
+  .right-content p {
+    font-size: 0.6rem;
+  }
+}
